@@ -24,7 +24,7 @@ The initial values given are the names used in the Darl code.
 You can override the values shown in drop down boxes.
 The initial values of these are the values given in the Darl code, and they are identified using the name of the input or output, a "." and the name of the category or set.
 
-![Language editor](Images/langedit1.png)
+![Language editor](Images/LangEdit1.png)
 
 The above illustrates how to edit the displayed text.
 

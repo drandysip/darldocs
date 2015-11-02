@@ -53,7 +53,7 @@ So, for instance, if we were to try to describe European male height we might cr
 There is no reason why a variety of shapes might not be used for fuzzy sets; the only requirement is that they are convex.
 However we have chosen for Darl a simple set of definitions that are very easy to describe.
 
-![fuzzy set types](Images/fuzzysettypes.png)
+![fuzzy set types](Images/FuzzySetTypes.png)
 
 These sets can be described just using an ascending-ordered sequence of numbers representing the intercepts of a vertical line dropped from the vertices to the X axis.
 

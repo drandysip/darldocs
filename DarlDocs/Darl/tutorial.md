@@ -14,19 +14,19 @@ Go to the latter first, and register for a new account, or sign in if you have a
 
 Then go to the "Editing" menu item and create a new project by making the following changes:
 
-![Create project](Images/createproject.png)
+![Create project](Images/CreateProject.png)
 
 Select "Create Project".
 
 The resulting project will appear in the list below.
 
-![New project](Images/newproject.png)
+![New project](Images/NewProject.png)
 
 Note that your Map ID will be different from the above. This is the ID that identifies the project and all its elements to the API apps.
 
 Now click on the "Edit Code" button and the [Darl edit](darleditor) window will appear.
 
-![Darl editor](Images/newcode.png)
+![Darl editor](Images/NewcCde.png)
 
 Change the name of the ruleset from "ruleset1" to "goldilocks".
 
@@ -124,17 +124,17 @@ The left side of an "is"  holds the input or output name, the right side whateve
 If you've got a complete ruleset with no compilation errors then you can test it.
 Save the edited ruleset and choose "Test" from the "existing projects" table.
 
-![Darl test](Images/test1.png)
+![Darl test](Images/Test1.png)
 
 Change the selections to look like the above and select "Test on ruleset".
 
-![Darl test](Images/test2.png)
+![Darl test](Images/Test2.png)
 
 The action will be as above if you've types in the ruleset properly.
 
 The "Detail" button brings up a pop up window containing uncertainty information:
 
-![Darl test](Images/test3.png)
+![Darl test](Images/Test3.png)
 
 Now close the pop up and switch "goldilocks_state" to "tired" and test again. 
 This time the result is empty, because we don't have a value for "chair_height", and the pop up will show the following:
@@ -179,7 +179,7 @@ Create a new project of the type "Darl form" called "goldilocks form" and copy a
 Saving the code automatically updates the Format and language specifications with the inputs and outputs.
 If you click on the "Edit Format" button in the project list beside the project you should see this:
 
-![Format Edit View](Images/test5.png)
+![Format Edit View](Images/Test5.png)
 
 The "Edit Format" page allows you to change the display format of the various inputs and outputs. For instance, for numeric inputs you can select "show sets" in which case in the final questionnaire the UI will display a drop down with the set names, rather than require a numeric input.
 For outputs you can change the way the data is displayed. Numeric outputs can be displayed as bars or as formatted numbers.
@@ -239,7 +239,7 @@ Format.resultHeader |
 
 To test the questionnaire choose test in the projects list  
 
-![Form Test](Images/test7.png)
+![Form Test](Images/Test7.png)
 
 # Using the results in a Logic App
 
@@ -249,7 +249,7 @@ This is quite straightforward, though at the time of writing Logic Apps are not 
 
 The two key pieces of information you need are the project Map ID, available in the projects list, and one of your keys available by clicking on your name in the log in and selecting Profile.
 
-![Keys in profile](Images/test8.png)
+![Keys in profile](Images/Test8.png)
 
 
 ## Wiring up a Darl Form in a Logic App
@@ -271,11 +271,11 @@ This sets the logic app to respond to a push trigger from the app whenever a for
 
 __Note__ that at the time of writing, push triggers are only updated hourly within Azure, so you may have to wait until this starts to work. Until the trigger is loaded the web page will show an error.
 
-![Logic app set up](Images/test9.png)
+![Logic app set up](Images/Test9.png)
 
 The final question is the address of the form. This is found in the settings of the Darl form API app.
 
-![url](Images/test10.png)
+![url](Images/Test10.png)
 
 I hope this all makes sense. Please report any issues through the [portal issues page](https://darlinf.portal.azure-api.net/issues).
 

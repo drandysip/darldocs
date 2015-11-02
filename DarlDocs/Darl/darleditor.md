@@ -18,7 +18,7 @@
 The Darl editor is an on-line editor especially adapted for the Darl language.
 It contains a linter that checks the text you give for grammar errors as you type and a suggestion engine that offers the appropriate Darl keywords.
 
-![Editing suggestions](Images/edit1.png)
+![Editing suggestions](Images/Edit1.png)
 
 As you type suggested text is created, and the location of any grammar errors are indicated by the red icon to the left, and a red underline beneath the location of the first error.
 
@@ -27,7 +27,7 @@ The linter uses the same compiler as the runtime processor, so a Darl file witho
  
 By hovering over the underlined text you can see the details of the error.
 
-![Editing suggestions](Images/edit2.png)
+![Editing suggestions](Images/Edit2.png)
 
 You can freely copy text into and out of the editor.
 
