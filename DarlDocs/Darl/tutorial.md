@@ -26,7 +26,7 @@ Note that your Map ID will be different from the above. This is the ID that iden
 
 Now click on the "Edit Code" button and the [Darl edit](darleditor) window will appear.
 
-![Darl editor](Images/NewcCode.png)
+![Darl editor](Images/NewCode.png)
 
 Change the name of the ruleset from "ruleset1" to "goldilocks".
 
