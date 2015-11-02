@@ -23,6 +23,6 @@ It contains a section where you can add a new project with a choice of two types
 The project list shows a paged and sortable subset of your projects. 
 Depending on the type various actions are available to permit editing and testing of your projects.
 
-![Project list](Images/ProjectList.png)
+![Project list](Images/projectlist.png)
 
 Columns are sortable and filterable. The Map ID column contains the id of that project, which is used with the API app to set the project.

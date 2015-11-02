@@ -26,7 +26,7 @@ Note that your Map ID will be different from the above. This is the ID that iden
 
 Now click on the "Edit Code" button and the [Darl edit](darleditor) window will appear.
 
-![Darl editor](Images/NewcCde.png)
+![Darl editor](Images/NewcCode.png)
 
 Change the name of the ruleset from "ruleset1" to "goldilocks".
 
@@ -139,7 +139,7 @@ The "Detail" button brings up a pop up window containing uncertainty information
 Now close the pop up and switch "goldilocks_state" to "tired" and test again. 
 This time the result is empty, because we don't have a value for "chair_height", and the pop up will show the following:
 
-![Darl test](Images/test4.png)
+![Darl test](Images/Test4.png)
  
 The rules for the other characters can be added easily. Note that there's a new input "bear_state", and the list of actions have been extended. The categories are shorthand for "who's been sleeping in my bed?" etc..
 
