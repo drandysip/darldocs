@@ -18,7 +18,7 @@
 There are several aspects of the display of forms that can be modified using this editor.
 The page shows lists of the inputs and outputs and permits the user to choose the default number of questions to be shown at a time.
 
-![Form edit page](images/formedit1.png)
+![Form edit page](Images/formedit1.png)
 
 Every time you save the Darl code the associated Format and text files are updates to reflect any changes in the inputs or outputs.
 
@@ -26,7 +26,7 @@ Not all I/O and type combinations are editable. Categorical inputs are always di
 
 # Numeric inputs
 
-![Numeric input edit page](images/formedit2.png)
+![Numeric input edit page](Images/formedit2.png)
 
 There are two display possibilities with numeric inputs.
 
@@ -44,7 +44,7 @@ When the runtime processor evaluates such inputs it replaces the value put into 
 
 # Textual inputs
 
-![Textual input edit page](images/formedit3.png)
+![Textual input edit page](Images/formedit3.png)
 
 Textual inputs are always displayed as text edit boxes. 
 
@@ -58,13 +58,13 @@ both kinds of outputs have _Hide_ and _Uncertainty_ select boxes to decide if th
 
 ## Categorical outputs
 
-![Categorical output edit page](images/formedit4.png)
+![Categorical output edit page](Images/formedit4.png)
 
 The only modifiable property other than hidden and uncertainty is whether the result is displayed in the form of a link or as simple text. The text and link format can be set using the text page.
 
 ##Numeric outputs
 
-![numeric output edit page](images/formedit5.png)
+![numeric output edit page](Images/formedit5.png)
 
 Numeric outputs can be displayed either as text or as score bars. 
 Use the Display Type to select one or other.

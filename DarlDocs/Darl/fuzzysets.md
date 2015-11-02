@@ -48,12 +48,12 @@ The standard way of representing fuzzy sets is as a chart with the Y axis repres
 
 So, for instance, if we were to try to describe European male height we might create the following sets:
 
-![fuzzy sets for height](images/fuzzysetsheight.png)
+![fuzzy sets for height](Images/fuzzysetsheight.png)
 
 There is no reason why a variety of shapes might not be used for fuzzy sets; the only requirement is that they are convex.
 However we have chosen for Darl a simple set of definitions that are very easy to describe.
 
-![fuzzy set types](images/fuzzysettypes.png)
+![fuzzy set types](Images/fuzzysettypes.png)
 
 These sets can be described just using an ascending-ordered sequence of numbers representing the intercepts of a vertical line dropped from the vertices to the X axis.
 
