@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5E9E-4241-AC1E-0355BF84C3D1}"
+	ProjectSection(SolutionItems) = preProject
+		Darl\conversetutorial.md = Darl\conversetutorial.md
+		Darl\darl.md = Darl\darl.md
+		Darl\darlconverse.md = Darl\darlconverse.md
+		Darl\darleditor.md = Darl\darleditor.md
+		Darl\darltest.md = Darl\darltest.md
+		Darl\formeditor.md = Darl\formeditor.md
+		Darl\formtest.md = Darl\formtest.md
+		Darl\fuzzysets.md = Darl\fuzzysets.md
+		Darl\index.md = Darl\index.md
+		Darl\languageeditor.md = Darl\languageeditor.md
+		Darl\projectpage.md = Darl\projectpage.md
+		Darl\tutorial.md = Darl\tutorial.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7CB5-AD16-40DE-9FDA-F32644B70236}"
+	ProjectSection(SolutionItems) = preProject
+		Darl\Images\ConverseTutorial1.png = Darl\Images\ConverseTutorial1.png
+		Darl\Images\ConverseTutorial2.png = Darl\Images\ConverseTutorial2.png
+		Darl\Images\ConverseTutorial3.png = Darl\Images\ConverseTutorial3.png
+		Darl\Images\ConverseTutorial4.png = Darl\Images\ConverseTutorial4.png
+		Darl\Images\CreateProject.png = Darl\Images\CreateProject.png
+		Darl\Images\Edit1.png = Darl\Images\Edit1.png
+		Darl\Images\Edit2.png = Darl\Images\Edit2.png
+		Darl\Images\FormEdit1.png = Darl\Images\FormEdit1.png
+		Darl\Images\FormEdit2.png = Darl\Images\FormEdit2.png
+		Darl\Images\FormEdit3.png = Darl\Images\FormEdit3.png
+		Darl\Images\FormEdit4.png = Darl\Images\FormEdit4.png
+		Darl\Images\FormEdit5.png = Darl\Images\FormEdit5.png
+		Darl\Images\fuzzysetsheight.png = Darl\Images\fuzzysetsheight.png
+		Darl\Images\FuzzySetTypes.png = Darl\Images\FuzzySetTypes.png
+		Darl\Images\LangEdit1.png = Darl\Images\LangEdit1.png
+		Darl\Images\NewCode.png = Darl\Images\NewCode.png
+		Darl\Images\NewProject.png = Darl\Images\NewProject.png
+		Darl\Images\projectlist.png = Darl\Images\projectlist.png
+		Darl\Images\Test1.png = Darl\Images\Test1.png
+		Darl\Images\Test10.png = Darl\Images\Test10.png
+		Darl\Images\Test2.png = Darl\Images\Test2.png
+		Darl\Images\Test3.png = Darl\Images\Test3.png
+		Darl\Images\Test4.png = Darl\Images\Test4.png
+		Darl\Images\Test5.png = Darl\Images\Test5.png
+		Darl\Images\Test6.png = Darl\Images\Test6.png
+		Darl\Images\Test7.png = Darl\Images\Test7.png
+		Darl\Images\Test8.png = Darl\Images\Test8.png
+		Darl\Images\Test9.png = Darl\Images\Test9.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{21FB7CB5-AD16-40DE-9FDA-F32644B70236} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
+	EndGlobalSection
+EndGlobal
