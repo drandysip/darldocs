@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5
 		Darl\fuzzy sets.md = Darl\fuzzy sets.md
 		Darl\index.md = Darl\index.md
 		Darl\language editor.md = Darl\language editor.md
+		Machine learning.md = Machine learning.md
 		Darl\project page.md = Darl\project page.md
 		Darl\tutorial.md = Darl\tutorial.md
 	EndProjectSection

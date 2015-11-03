@@ -13,3 +13,5 @@ We will use a kind of conversational interface. After you've input your rules th
 
 We created this ability before we created Darl. In fact Darl was originally conceived as a way of representing a Machine Learning model.
 We will be looking at integrating our existing supervised learning fuzzy logic rule induction algorithm with Azure's Machine learning facilities.
+See [Machine learning](Machine learning).
+
