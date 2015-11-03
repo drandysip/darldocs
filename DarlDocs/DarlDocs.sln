@@ -6,17 +6,17 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5E9E-4241-AC1E-0355BF84C3D1}"
 	ProjectSection(SolutionItems) = preProject
 		Darl\converse tutorial.md = Darl\converse tutorial.md
+		Darl\dar ltest.md = Darl\dar ltest.md
+		Darl\darl converse.md = Darl\darl converse.md
+		Darl\darl editor.md = Darl\darl editor.md
 		Darl\darl.md = Darl\darl.md
-		Darl\darlconverse.md = Darl\darlconverse.md
-		Darl\darleditor.md = Darl\darleditor.md
-		Darl\darltest.md = Darl\darltest.md
-		Darl\formeditor.md = Darl\formeditor.md
-		Darl\formtest.md = Darl\formtest.md
-		Future stuff.md = Future stuff.md
-		Darl\fuzzysets.md = Darl\fuzzysets.md
+		Darl\form editor.md = Darl\form editor.md
+		Darl\form test.md = Darl\form test.md
+		Darl\Future stuff.md = Darl\Future stuff.md
+		Darl\fuzzy sets.md = Darl\fuzzy sets.md
 		Darl\index.md = Darl\index.md
-		Darl\languageeditor.md = Darl\languageeditor.md
-		Darl\projectpage.md = Darl\projectpage.md
+		Darl\language editor.md = Darl\language editor.md
+		Darl\project page.md = Darl\project page.md
 		Darl\tutorial.md = Darl\tutorial.md
 	EndProjectSection
 EndProject
