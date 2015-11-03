@@ -1,20 +1,6 @@
 ﻿The Darl Language
 ============
 
-## Other pages
-
-+ [The index](index)
-+ [Fuzzy sets](fuzzysets)
-+ [Project page](projectpage)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
-
 'Darl' stands for **D**octor **A**ndy's **R**ule **L**anguage.
 It is pronounced like the name *'Daryl'*.
 

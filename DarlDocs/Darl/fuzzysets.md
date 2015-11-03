@@ -1,19 +1,6 @@
 ﻿Fuzzy logic and sets
 ====
 
-## Other pages
-
-+ [The index](index)
-+ [The Darl language](darl)
-+ [Project page](projectpage)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
 
 In classical, Boolean logic one can reason with sets, where set membership is clearly defined. 
 For instance, you are either a member of your local gym, or you are not. 

@@ -1,19 +1,6 @@
 ﻿Form Editor
 =====
 
-## Other pages
-
-+ [The index](index)
-+ [Fuzzy sets](fuzzysets)
-+ [Project page](projectpage)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [The Darl language](darl)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
 
 There are several aspects of the display of forms that can be modified using this editor.
 The page shows lists of the inputs and outputs and permits the user to choose the default number of questions to be shown at a time.

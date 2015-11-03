@@ -1,20 +1,6 @@
 ﻿Project page
 =========
 
-## Other pages
-
-+ [The index](index)
-+ [Fuzzy sets](fuzzysets)
-+ [The Darl language](darl)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
-
 The project page is accessible via the main menu under the _Editing_ tab.
 It contains a section where you can add a new project with a choice of two types (Several more will be added in the near future.).
 

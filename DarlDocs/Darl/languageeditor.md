@@ -1,19 +1,6 @@
 ﻿Form text editor
 ======
 
-## Other pages
-
-+ [The index](index)
-+ [Fuzzy sets](fuzzysets)
-+ [Project page](projectpage)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [The Darl language](Darl)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
 
 All the text values shown to the user are editable and can be displayed in a variety of languages.
 The text editor enables you to set these values and the language variants displayed based on the end-users browser language preferences.

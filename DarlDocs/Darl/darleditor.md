@@ -1,20 +1,6 @@
 ﻿The Darl Editor
 ====
 
-## Other pages
-
-+ [The index](index)
-+ [Fuzzy sets](fuzzysets)
-+ [Project page](projectpage)
-+ [The Darl language](darl)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
-
 The Darl editor is an on-line editor especially adapted for the Darl language.
 It contains a linter that checks the text you give for grammar errors as you type and a suggestion engine that offers the appropriate Darl keywords.
 
