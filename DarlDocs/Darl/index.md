@@ -1,19 +1,6 @@
 ﻿Using Darl and the API apps.
 ============
 
-## More information
-
-+ [The Darl language](darl)
-+ [Fuzzy sets](fuzzysets)
-+ [Project page](projectpage)
-+ [The Darl on-line editor](darleditor)
-+ [Testing a Darl rule set](darltest)
-+ [Editing the format of Darl Forms](formeditor)
-+ [Editing the text of Darl forms](languageeditor)
-+ [Testing a Darl form](formtest)
-+ [A complete tutorial](tutorial)
-+ [Darl Converse tutorial](conversetutorial)
-
 
 # Introduction
 DarlForms and DarlInf are two API apps that can be used on their own or with the Azure Logic app to add intelligence to back office processing.
@@ -26,11 +13,11 @@ Darl makes it easy to create expert systems that encapsulate human knowledge. Da
 Whenever a decision making step is needed, Darl can help. 
 It can do far more than just implement a piece of logic; it encapsulates a complete system for handling Fuzzy Logic, Fuzzy arithmetic, Fuzzy sets, confidence values and tolerances. 
 
-The great beauty of the Fuzzy suite, ([Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic), [Fuzzy Arithmetic](https://en.wikipedia.org/wiki/Fuzzy_mathematics) and [Possibility theory](https://en.wikipedia.org/wiki/Possibility_theory)), is that they are supersets of normal boolean logic and natural arithmetic. You don't have to understand these principles to use Darl, it defaults to boolean and natural arithmetic. It is only when you start to add uncertainty to your rule sets that the fuzzy stuff kicks in.
+The great beauty of the Fuzzy suite, ([Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic), [Fuzzy Arithmetic](https://en.wikipedia.org/wiki/Fuzzy_mathematics) and [Possibility theory](https://en.wikipedia.org/wiki/Possibility_theory)), is that they are supersets of normal boolean logic and natural arithmetic. You don't have to understand these principles to use Darl; it defaults to boolean and natural arithmetic. It is only when you start to add uncertainty to your rule sets that the fuzzy stuff kicks in.
 
 There is a natural tendency in science and technology to treat systems we are trying to model as if they were perfect: perfect spheres, straight lines, certain facts. Darl plays along with this tendency; you can model using idealized equations and rules, and then subsequently add tolerances and certainty figures. When you do Darl will handle these extra pieces of information as part of the framework and correctly calculate the tolerances and certainties of the results.
 
-Uniquely, Darl will tell you when it doesn't know something. If you program a set of rules with a gap, a set of circumstances that the rule set doesn't consider, the result will be flagged as unknown if these circumstances are encountered.  We have a tool that we will add to the Azure suite soon, that detects such "lacunae" automatically.
+Uniquely, Darl will tell you when it doesn't know something. If you program a set of rules with a gap, a set of circumstances that the rule set doesn't consider, the result will be flagged as unknown if these circumstances are encountered.  We have a tool that we will add to the Azure suite soon, that detects such "lacunae" automatically, giving you the opportunity to fix them.
 
 # Darl forms
 
