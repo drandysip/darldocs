@@ -19,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5
 		Machine learning.md = Machine learning.md
 		Darl\project page.md = Darl\project page.md
 		Darl\tutorial.md = Darl\tutorial.md
+		Using the Forms API directly.md = Using the Forms API directly.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7CB5-AD16-40DE-9FDA-F32644B70236}"
@@ -53,11 +54,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7C
 		Darl\Images\Test9.png = Darl\Images\Test9.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlCommon", "DarlCommon", "{5D928736-551E-49BA-A5F4-34296492070A}"
+	ProjectSection(SolutionItems) = preProject
+		DarlVar.md = DarlVar.md
+		DaslState.md = DaslState.md
+		FormFormat.md = FormFormat.md
+		InputFormat.md = InputFormat.md
+		LanguageFormat.md = LanguageFormat.md
+		LanguageText.md = LanguageText.md
+		OutputFormat.md = OutputFormat.md
+		QuestionProxy.md = QuestionProxy.md
+		QuestionSetProxy.md = QuestionSetProxy.md
+		ResponseProxy.md = ResponseProxy.md
+		VariantText.md = VariantText.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{21FB7CB5-AD16-40DE-9FDA-F32644B70236} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
+		{5D928736-551E-49BA-A5F4-34296492070A} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
 	EndGlobalSection
 EndGlobal
