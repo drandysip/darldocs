@@ -54,7 +54,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7C
 		Darl\Images\Test9.png = Darl\Images\Test9.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlCommon", "DarlCommon", "{5D928736-551E-49BA-A5F4-34296492070A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlCommon", "DarlCommon", "{D37D6249-E9BC-48B9-A1C6-2AAE257357A4}"
 	ProjectSection(SolutionItems) = preProject
 		DarlVar.md = DarlVar.md
 		DaslState.md = DaslState.md
@@ -75,6 +75,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{21FB7CB5-AD16-40DE-9FDA-F32644B70236} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
-		{5D928736-551E-49BA-A5F4-34296492070A} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
 	EndGlobalSection
 EndGlobal
