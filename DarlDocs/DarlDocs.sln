@@ -76,11 +76,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dasl", "Dasl", "{5754102B-F
 		Dasl\Dasl.md = Dasl\Dasl.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{2D2E5FB8-0DB4-4D29-86D8-A40C4B175CEC}"
+	ProjectSection(SolutionItems) = preProject
+		Dasl\Images\Logisticmap_diagram.jpg = Dasl\Images\Logisticmap_diagram.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{21FB7CB5-AD16-40DE-9FDA-F32644B70236} = {C79AB465-5E9E-4241-AC1E-0355BF84C3D1}
+		{2D2E5FB8-0DB4-4D29-86D8-A40C4B175CEC} = {5754102B-FF08-425D-8A2E-C8998F07907B}
 	EndGlobalSection
 EndGlobal

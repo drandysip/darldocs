@@ -56,6 +56,9 @@ delay map1 logisticMap.in1 {1};
 The form of the logistic map equation is simply X(n+1) = rX(n)(1-X(n))
 Selecting r as 4 guarantees chaos.
 
+The following diagram shows how the delay is wired:
+![logistic map diagram](Images/Logisticmap_diagram.jpg)
+
 ## Handling temporal data
 Temporal data comes in two forms, events associated with one or more data values, and regularly sampled time series.
 Of the two, an event representation is the most general, since a sampled time series can be represented as a sequence of events.
@@ -97,6 +100,10 @@ This leads us to define the following conventions that you should adhere to in c
 
 The last feature is the most powerful. It means you can supply a sequence of data values for the simulation, and when they stop, and they don't all need to stop at the same time, then the simulation takes over.
 You could thus use real time data with a simulation where the latest DaslState (with an empty DarlVar array) is set to some time in the future, thus forcing the simulation to generate true predictions.
+
+The only drawback to using events rather than simple arrays of data is that you need to create dummy time tags for any series, like the Logistic map example above, where no real world time is required. This is a small price to pay for the power of this representation form.
+
+As a note, it would be quite possible to arrange Dasl so that it was event driven - i.e. the simulation could be run for every event in the DaslState array, rather than at clocked intervals. This and other additions like trading times are in the pipeline.
 
 
 
