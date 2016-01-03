@@ -63,9 +63,9 @@ Of the two, an event representation is the most general, since a sampled time se
 We are interested here in multivariate data. In the real world data that might be used is sampled at a range of frequencies, or occurs as spontaneous events.
 We would like, however, our simulation to have a regular sample period so that calculations using delays can be generated cleanly and graphed easily.
 
-The solution is a data structure, [DaslState](DarlCommon/DaslState), and the addition of a Temporal database to Dasl.
+The solution is a data structure, [DaslState](../DarlCommon/DaslState), and the addition of a Temporal database to Dasl.
 
-DaslState is a data structure that contains a time stamp and a list of [DarlVar](DarlCommon/DarlVar) data structures, each of which contains a single named value.
+DaslState is a data structure that contains a time stamp and a list of [DarlVar](../DarlCommon/DarlVar) data structures, each of which contains a single named value.
 
 A DaslState data structure represents an event, holding a time tag and containing the named data values that changed at the moment represented.
 

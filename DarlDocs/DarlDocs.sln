@@ -67,12 +67,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlCommon", "DarlCommon", 
 		DarlCommon\QuestionProxy.md = DarlCommon\QuestionProxy.md
 		DarlCommon\QuestionSetProxy.md = DarlCommon\QuestionSetProxy.md
 		DarlCommon\ResponseProxy.md = DarlCommon\ResponseProxy.md
+		Darl\Using the Forms API directly.md = Darl\Using the Forms API directly.md
 		DarlCommon\VariantText.md = DarlCommon\VariantText.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dasl", "Dasl", "{5754102B-FF08-425D-8A2E-C8998F07907B}"
 	ProjectSection(SolutionItems) = preProject
-		Dasl.md = Dasl.md
+		Dasl\Dasl.md = Dasl\Dasl.md
 	EndProjectSection
 EndProject
 Global
