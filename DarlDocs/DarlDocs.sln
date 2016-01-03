@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5E9E-4241-AC1E-0355BF84C3D1}"
 	ProjectSection(SolutionItems) = preProject
@@ -20,6 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5
 		Darl\project page.md = Darl\project page.md
 		Darl\tutorial.md = Darl\tutorial.md
 		Darl\Using the Forms API directly.md = Darl\Using the Forms API directly.md
+		Using the Inference API directly.md = Using the Inference API directly.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7CB5-AD16-40DE-9FDA-F32644B70236}"
@@ -67,6 +68,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlCommon", "DarlCommon", 
 		DarlCommon\QuestionSetProxy.md = DarlCommon\QuestionSetProxy.md
 		DarlCommon\ResponseProxy.md = DarlCommon\ResponseProxy.md
 		DarlCommon\VariantText.md = DarlCommon\VariantText.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dasl", "Dasl", "{5754102B-FF08-425D-8A2E-C8998F07907B}"
+	ProjectSection(SolutionItems) = preProject
+		Dasl.md = Dasl.md
 	EndProjectSection
 EndProject
 Global
