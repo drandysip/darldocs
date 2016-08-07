@@ -5,7 +5,7 @@ The following applies to Version 2. of the site.
 
 Registering with Dr Andy gives you the opportunity to open a free open-source account, and to subsequently upgrade it to a private account.
 
-![Registering](Images/register.png)
+![Registering](Darl/Images/register.png)
 
 ##Email address
 The email address you give here needs to be valid, because we will use it to contact you about your account.
@@ -25,24 +25,24 @@ In order to use facilities associated with other sites, especially GitHub, you c
 To do this, register as usual and then click on your email address in the menu bar.
 This will bring up the following page:
 
-![Manage](Images/manage.png)
+![Manage](Darl/Images/manage.png)
 
 Click on "manage" next to "external logins".
 
 Select one of the available external providers.
 
-![Manage external](Images/manage_external.png)
+![Manage external](Darl/Images/manage_external.png)
 
 If you are already logged in with this provider you will immediately be returned, otherwise you must log in with the provider and accept the limited access docandys requests to your account.
 Please note for social media accounts we will not post on your behalf or in anyway modify your account.
 
 When you have logged in you will be returned to our site where you can remove the association at any time.
 
-![Manage response](Images/manage_response.png)
+![Manage response](Darl/Images/manage_response.png)
 
 Next time you log in you can use whichever methods you have set up.
 
-![login](Images/login.png)
+![login](Darl/Images/login.png)
 
 #Registering with an external provider
 
