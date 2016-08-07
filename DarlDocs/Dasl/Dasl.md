@@ -50,7 +50,7 @@ mapoutput map1;
 mapinput in1;
 wire logisticMap.out1 map1;
 wire in1 logisticMap.in1;
-delay map1 logisticMap.in1 {1};
+delay map1 logisticMap.in1 {0};
 ```
 
 The form of the logistic map equation is simply X(n+1) = rX(n)(1-X(n))
