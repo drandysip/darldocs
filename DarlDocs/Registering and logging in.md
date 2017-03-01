@@ -17,6 +17,9 @@ access "fred.docandys.com" to access your account. Only one level of subdomains 
 ##Password
 Passwords must be a minimum of seven characters containing a mixture of upper and lower case, a number and a "special" character.
 
+#Demo projects
+Your new account will be populated with a set of demo projects. You can edit or delete these as you choose.
+
 #Logging in 
 You log in to your own sub-site using your subdoman in front of the docandys domain, so "subdomain.docandys.com".
 
