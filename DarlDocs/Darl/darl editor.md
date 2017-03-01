@@ -19,3 +19,11 @@ You can freely copy text into and out of the editor.
 
 Selecting "Save Changes" will save the most recent copy of the text and return you to the project list page, whereas "Back to List" will do the same without saving changes.
 
+#Full screen Editing
+
+The DARL editor can be put into full screen mode using the F11 key, and will return from full screen mode using the ESC key.
+
+#Saving Changes
+
+Changes to DARL code will only be saved if the Save button at the bottm od the page is selected.
+

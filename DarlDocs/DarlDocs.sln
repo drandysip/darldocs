@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5
 	ProjectSection(SolutionItems) = preProject
 		Darl\converse tutorial.md = Darl\converse tutorial.md
 		Darl\dar ltest.md = Darl\dar ltest.md
+		darl and gp.md = darl and gp.md
 		Darl\darl converse.md = Darl\darl converse.md
 		Darl\darl editor.md = Darl\darl editor.md
 		Darl\darl.md = Darl\darl.md
@@ -86,6 +87,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{2D2E5F
 	ProjectSection(SolutionItems) = preProject
 		Dasl\Images\Logisticmap_diagram.jpg = Dasl\Images\Logisticmap_diagram.jpg
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlBot", "DarlBot", "{3763D03E-A378-4E64-8905-92336A68B642}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
