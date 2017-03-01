@@ -1,4 +1,4 @@
-Machine learning (1st Q 2016)
+Machine learning 
 ====
 
 Almost all machine learning methodologies create models of the things they have learned that are opaque.

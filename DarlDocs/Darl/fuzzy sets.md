@@ -27,7 +27,7 @@ Fuzzy logic is a system of logic that represents truth as a real number between 
 
 The degree of truth of a statement may be anywhere between 0 and 1. 
 
-This requires a redefinition of the idea of a set. Fuzzy sets are defined as sets that can an object or state can be a partial member of, i.e. a statement referring to set membership may have partial truth.
+This requires a redefinition of the idea of a set. Fuzzy sets are defined as sets that an object or state can be a partial member of; i.e. a statement referring to set membership may have partial truth.
 
 The principal use of this idea is for numeric variables, like the number of stones in a pile.
 
