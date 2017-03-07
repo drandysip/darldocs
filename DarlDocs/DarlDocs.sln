@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5
 		darl and gp.md = darl and gp.md
 		Darl\darl editor.md = Darl\darl editor.md
 		Darl\darl.md = Darl\darl.md
+		Excluded middle.md = Excluded middle.md
 		Darl\form editor.md = Darl\form editor.md
 		Darl\form test.md = Darl\form test.md
 		Darl\Future stuff.md = Darl\Future stuff.md
