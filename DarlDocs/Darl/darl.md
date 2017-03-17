@@ -285,6 +285,13 @@ if a is < c + d then b will be true;
 ```darl
 if a is match(string) then b will be true;
 ```
+### Default behaviour
+A single rule defining default behaviour that is only triggereed for a given output if no other rule associated with that output triggers can be created by putting _otherwise_ before that rule.
+```darl
+if a is match(string) then b will be true;
+otherwise if anything then b will be false;
+```
+
 ## Numeric Expressions
 These are algebraic expressions, following the rules of Fuzzy Arithmetic. See [Introduction to Fuzzy Arithmetic](http://www.amazon.com/Introduction-fuzzy-arithmetic-applications-engineering/dp/0442230079/)
             
@@ -347,6 +354,35 @@ if a is = normprob(b) then p will be q;
 if a is = round(b,c) then p will be q;
 ```
 *Note only two operands.*
+
++ randomtext: Randomly selects from an array of text items;
+```darl
+if anything then p will be randomtext("one","two","three");
+```
++ document: Substitutes data items into a text document.
+The first parameter is a string literal or textual i/o containing the text template, the second parameter is a list of the inputs on d outputs that are used in the template.
+
+The template language permits two kinds of modification: 
+Simple substitution is performed by placing a tag like __%% data_type %%__ in the template text. In this case the value of an input or output called __data_type__ will replace the text.
+Sections of text can be retained or excluded based on categorical i/o.
+
+    %% { interEU.false %% text if false %% interEU.false } %%
+    %% { interEU.true %% text if true %% interEU.true } %%
+
+In the above case interEU is a categorical input or output with the categories true,false. If interEU is true the text _"text if true"_ is included in the output, otherwise if false _"text if false"_ will be included.
+
+Text replacement tags can be nested to any depth, and simple substitutions can occur inside text selections.
+
+```darl
+input textual fred;
+input textual a;
+input numeric b;
+output textual p;
+
+if anything then p will be document(fred,{a,b});
+```
+
+In the case above the value of the output p will contain the template text fred with a and b selecting or substituting.
 
 ## Optional Confidence Value
 Rules can have an optional confidence value, in the range 0.0 to 1.0.

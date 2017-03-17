@@ -1,19 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5E9E-4241-AC1E-0355BF84C3D1}"
 	ProjectSection(SolutionItems) = preProject
-		Darl\dar ltest.md = Darl\dar ltest.md
 		darl and gp.md = darl and gp.md
 		Darl\darl editor.md = Darl\darl editor.md
+		Darl\darl test.md = Darl\darl test.md
 		Darl\darl.md = Darl\darl.md
 		Excluded middle.md = Excluded middle.md
 		Darl\form editor.md = Darl\form editor.md
 		Darl\form test.md = Darl\form test.md
 		Darl\Future stuff.md = Darl\Future stuff.md
 		Darl\fuzzy sets.md = Darl\fuzzy sets.md
+		Handling Defaults.md = Handling Defaults.md
 		Darl\index.md = Darl\index.md
 		Darl\language editor.md = Darl\language editor.md
 		Darl\Machine learning.md = Darl\Machine learning.md
