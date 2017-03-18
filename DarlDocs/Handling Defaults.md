@@ -22,7 +22,7 @@ So if we consider this simple rule set:
     ruleset simple
     {
         input categorical a {true,false};
-        input categorical b {true false};
+        input categorical b {true, false};
 
         output categorical c {true, false};
 
@@ -36,7 +36,7 @@ If you wanted to set up the questionnaire engine to run the same simple rule set
     ruleset simple_questionnaire_
     {
         input categorical a {true,false};
-        input categorical b {true false};
+        input categorical b {true, false};
 
         output categorical c {true, false};
 
