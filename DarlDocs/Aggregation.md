@@ -22,4 +22,4 @@ The Categories parameter will contain a dictionary of name,double pairs containi
 
 #Textual outputs
 
-It is entirely possible that more than one rule will fire that controls a textual output. The texts are ordered according to confidence, and the Value parameter will hold the text with the highest confidence. Where there is a tie, the texts will be concatenated, separated by carriage returns. The order will be that of the generating rules in the source document.
+It is entirely possible that more than one rule will fire that controls a textual output. The texts are ordered according to confidence, and the Value parameter will hold the text with the highest confidence. Where there is a tie, the texts will be concatenated, separated by carriage returns if no other whitespace is present. The order will be that of the generating rules in the source document.
