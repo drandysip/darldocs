@@ -5,26 +5,23 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Darl", "Darl", "{C79AB465-5E9E-4241-AC1E-0355BF84C3D1}"
 	ProjectSection(SolutionItems) = preProject
-		Aggregation.md = Aggregation.md
-		darl and gp.md = darl and gp.md
+		Darl\Aggregation.md = Darl\Aggregation.md
+		Darl\darl and gp.md = Darl\darl and gp.md
 		Darl\darl editor.md = Darl\darl editor.md
 		Darl\darl test.md = Darl\darl test.md
 		Darl\darl.md = Darl\darl.md
-		Excluded middle.md = Excluded middle.md
+		Darl\Excluded middle.md = Darl\Excluded middle.md
 		Darl\form editor.md = Darl\form editor.md
 		Darl\form test.md = Darl\form test.md
 		Darl\Future stuff.md = Darl\Future stuff.md
 		Darl\fuzzy sets.md = Darl\fuzzy sets.md
-		Handling Defaults.md = Handling Defaults.md
+		Darl\Handling Defaults.md = Darl\Handling Defaults.md
 		Darl\index.md = Darl\index.md
 		Darl\language editor.md = Darl\language editor.md
 		Darl\Machine learning.md = Darl\Machine learning.md
-		Registering and logging in.md = Registering and logging in.md
-		Status page.md = Status page.md
 		Darl\tutorial.md = Darl\tutorial.md
 		Darl\Using the Forms API directly.md = Darl\Using the Forms API directly.md
 		Using the Inference API directly.md = Using the Inference API directly.md
-		Word.md = Word.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{21FB7CB5-AD16-40DE-9FDA-F32644B70236}"
@@ -93,6 +90,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{2D2E5F
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlBot", "DarlBot", "{3763D03E-A378-4E64-8905-92336A68B642}"
+	ProjectSection(SolutionItems) = preProject
+		DarlBot\about.md = DarlBot\about.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web site", "Web site", "{FC89579A-512F-4809-8276-DC12FAD8A7C2}"
+	ProjectSection(SolutionItems) = preProject
+		Web Site\Registering and logging in.md = Web Site\Registering and logging in.md
+		Web Site\Status page.md = Web Site\Status page.md
+		Web Site\Word.md = Web Site\Word.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dabl", "Dabl", "{2C78ED89-16CA-4F92-93FA-A18775D8D9BE}"
+	ProjectSection(SolutionItems) = preProject
+		Dabl\Dabl.md = Dabl\Dabl.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
